@@ -1,7 +1,7 @@
 # Utilizando API pública de coleta de endereço utilizando CEP
 
 ## Descrição
-Este é um pequeno projeto construído com Spring Boot que permite consultar informações de endereço a partir de um CEP utilizando a API pública ViaCEP.
+Este é endpoint construído com Spring Boot que permite consultar informações de endereço a partir de um CEP utilizando a API pública ViaCEP.
 O endpoint `/adress/{cep}` aceita um CEP como parâmetro e retorna os dados do endereço no formato JSON.
 
 ## Como Rodar o Projeto
